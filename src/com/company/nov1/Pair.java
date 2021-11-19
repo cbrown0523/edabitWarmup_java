@@ -1,4 +1,4 @@
-package com.company;
+package com.company.nov1;
 
 public class Pair {
     public int[] makePair(int a, int b) {

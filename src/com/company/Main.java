@@ -1,5 +1,8 @@
 package com.company;
 
+import com.company.nov1.GetWordCount;
+import com.company.nov1.Pair;
+
 import java.util.Arrays;
 
 public class Main{
